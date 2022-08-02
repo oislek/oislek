@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oislek
+- 👀 I’m interested in web app development with angular and .net core web api
+- 🌱 I’m constantly learning.
+- 💞️ I’m looking to collaborate on developing some app with a team in Warszawa
+- 📫 How to reach me via github.com/oislek
